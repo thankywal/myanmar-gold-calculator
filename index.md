@@ -17,9 +17,8 @@ Track real-time gold prices and currency exchange rates in Myanmar. Calculate th
 - Works offline with cached prices
 
 ## Download
-
 - **iOS** — [Get it on App Store](https://apps.apple.com/app/myanmar-gold-calculator/id6763260777)
-- **Android** — Comming Soon...
+- **Android** — [Get it on Google Play](https://play.google.com/store/apps/details?id=com.verificationthailand.mgc)
 
 ## Support
 
