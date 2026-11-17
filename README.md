@@ -2,4 +2,4 @@
                   
   Official website and privacy policy for the Myanmar Gold Calculator app.                                                            
                   
-  Visit: https://thankywalbkk-a11y.github.io/myanmar-gold-calculator/
+  Visit: https://thankywal.github.io/myanmar-gold-calculator/
